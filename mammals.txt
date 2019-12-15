@@ -1,4 +1,3 @@
 cow
 zebra
 giraffe
-sloth
